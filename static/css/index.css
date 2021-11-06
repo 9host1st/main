@@ -1,0 +1,84 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk&display=swap');
+
+html, body {
+	height: 100%;
+	margin: 0;
+	overflow: auto;
+	position: relative;
+}
+
+.footer {
+	position: absolute;
+}
+
+.wrapper {
+	width: 100%;
+	position: relative;
+	min-height: 100%;
+	background-color: #333333;
+}
+
+.liText {
+	font-size: 18px;
+	font-family: 'Raleway', sans-serif;
+}
+
+.title {
+	font-family: 'Space Grotesk', sans-serif;
+	color: #ffffff;
+}
+
+.title1 {
+	font-family: 'Space Grotesk', sans-serif;
+	color: #eb3d3d;
+}
+
+.profile {
+	margin-top:15px;
+	margin-left: 25px;
+}
+.title2 {
+	font-family: 'Space Grotesk', sans-serif;
+	color: #eb3d3d;
+}
+
+.Achievement {
+	margin-top:15px;
+	margin-left: 25px;
+}
+ul {
+	color: #eb3d3d;
+	font-family: 'Space Grotesk', sans-serif;
+}
+
+.li1 {
+	list-style: none;
+	font-size: 17px;
+	margin-left:-10px;
+	line-height: 27px;
+}
+
+a { 
+	color: #eb3d3d;
+	text-decoration: none;
+	padding-left: 5px;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #eb3d3d;
+	text-decoration-color: #ffffff;
+}
+.ulSize {
+	margin-top: 60px;
+	font-size: 40px;
+}
+
+.rightFont {
+	font-family: 'Noto Sans KR', sans-serif;
+	font-size: 14px;
+}
